@@ -24,35 +24,35 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'sosial-md'
+global.namaowner = 'Juan'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['62887435006141']
+global.premium = ['62887435006141']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
+global.telkomsel = ['-']
 global.xl = ['-']
 global.indosat = ['-']
-global.tri = ['6289636827082']
-global.smartfren = ['-']
-global.gopay = ['6289636827082']
-global.dana = ['6289636827082']
+global.tri = ['-']
+global.smartfren = ['62887435006141']
+global.gopay = ['-']
+global.dana = ['62887435006141']
 global.ovo = ['-']
-global.saweria = ['https://saweria.co/GuaAbuzz']
+global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
-global.scbot = 'https://github.com/Abuzzpoet/Akame'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/Riosensei'
+global.scbot = 'https://github.com/Abuzzpoet/sosial-md'
+global.myweb = 'https://github.com/Riosensei'
 
 //—————「 Set Wm 」—————//
-global.packname = 'GuaAbuzz'
-global.author = 'WhatsApp Bot'
+global.packname = 'Rio'
+global.author = 'sosial'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -69,7 +69,7 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak
 global.mess = {
-    success: '🤗Done, Oke Desu~',
+    success: 'Done, Oke Desu~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
