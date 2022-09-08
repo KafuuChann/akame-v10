@@ -115,7 +115,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
         }
 
         //Time Menuju Ulang Tahun Untuk GuaAbuzz :)
-        const HBD = new Date('July 17, 2023 06:00:00').getTime();
+        const HBD = new Date('maret 19, 2023 06:00:00').getTime();
         const sekarang = new Date().getTime();
         const Selisih = HBD - sekarang;
         const jhari = Math.floor(Selisih / (1000 * 60 * 60 * 24));
@@ -1112,10 +1112,10 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             case 'script': {
                 anu = `
                 *Info Script*     
-📚 *Base : Dika Ardnt* 
-⌲ https://github.com/DikaArdnt/Hisoka-Morou
+📚 *Base : Juan-MD* 
+⌲ https://github.com/nosc
 
-🌱 *Recode By : GuaAbuzz*
+🌱 *Recode By : Rio*
 ⎙ ${global.scbot}`
                 let btn = [{
                     urlButton: {
