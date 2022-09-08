@@ -46,9 +46,9 @@ global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Riosensei'
-global.scbot = 'https://github.com/Abuzzpoet/sosial-md'
-global.myweb = 'https://github.com/Riosensei'
+global.github = 'https://github.com/nosc'
+global.scbot = 'https://github.com/nosc'
+global.myweb = 'https://github.com/nosc'
 
 //—————「 Set Wm 」—————//
 global.packname = 'Rio'
