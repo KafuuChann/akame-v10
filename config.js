@@ -24,8 +24,8 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'Soul-King'
-global.namaowner = 'Juan'
+global.namabot = 'KafuuChino'
+global.namaowner = 'Kuma'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
@@ -46,13 +46,13 @@ global.saweria = ['-']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/nosc'
-global.scbot = 'https://github.com/nosc'
-global.myweb = 'https://github.com/nosc'
+global.github = 'https://github.com/DikaArdnt'
+global.scbot = 'https://github.com/DikaArdnt'
+global.myweb = 'wa.me/62887435006141'
 
 //—————「 Set Wm 」—————//
-global.packname = 'Rio'
-global.author = 'sosial'
+global.packname = 'KafuuChino-MD'
+global.author = 'wa.me/62887435006141'
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
