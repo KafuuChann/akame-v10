@@ -992,7 +992,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 ⭔ Ortu Saya.
 ⭔ DikaArdnt (Author).
 ⭔ Sanzy YT.
-⭔ GuaAbuzz (Recode).
+⭔ KafuuChanny (Recode).
 ⭔ Fatih A.
 ⭔ Nurutomo.
 ⭔ Mhankbarbar.
@@ -1112,10 +1112,10 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             case 'script': {
                 anu = `
                 *Info Script*     
-📚 *Base : Juan-MD* 
-⌲ https://github.com/nosc
+📚 *Base : DikaArdnt* 
+⌲ https://github.com/DikaArdnt/Hisoka-Morou
 
-🌱 *Recode By : Rio*
+🌱 *Recode By : KafuuChann*
 ⎙ ${global.scbot}`
                 let btn = [{
                     urlButton: {
@@ -4573,7 +4573,7 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
                 neww = performance.now()
                 oldd = performance.now()
                 let txtping = `*⍢⃝🤖 I N F O  B O T*\n\n`
-                txtping += `*👤 Owner Name :* ${global.namaowner}\n`
+                txtping += `*💀 Owner Name :* ${global.namaowner}\n`
                 txtping += `*🕊️ Nama Bot :* ${global.namabot}\n`
                 txtping += `*🔗 Nomor Owner :* wa.me/${global.owner}\n\n`
                 txtping += `*⍢⃝👾 I N F O  S T A T I S T I K*\n\n`
@@ -5067,7 +5067,7 @@ Request Message: ${text}`
 │1. Tolong Gunakan Delay 5 Detik
 │   Untuk Menggukan BOT.
 │2. Cuilk Bot Tanpa Izin? Group
-│   Ya Gua Raid 😎.
+│   Ya Gw Keluar.
 │2. Gunakan Dengan Bijak.
 │3. Don't Call Bots.
 │4. Don't Spam Bot.
@@ -5674,7 +5674,7 @@ Request Message: ${text}`
 │⭔ ${prefix}thighs
 │⭔ ${prefix}yuri
 │⭔ ${prefix}zettairyouiki
-│⭔ Noted : Stay Halal Brother >_<
+│⭔ Noted : jangan berlebihan!
 └──────────────┈❖`
                 let btn = [{
                     urlButton: {
