@@ -1,11 +1,4 @@
-/**
- * Base By Dika Ardnt.
- * Recode By GuaAbuzz
- * Kalau Mau Recode, Edit Aja Di confiq.js
- * Script No enc? DiJual 20k No Enc
- * Contact Me On wa.me/6289636827082
- * Follow https://github.com/Abuzzpoet
- */
+
  
 require('./config')
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
