@@ -133,7 +133,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
                     thumbnail: fs.readFileSync('./lib/hisoka.jpg'),
                     surface: 200,
                     message: `Haii Kak ${pushname}\n ${command}`,
-                    orderTitle: 'Please Follow TikTok @Eichi',
+                    orderTitle: 'Please Follow TikTok @Eichi01',
                     sellerJid: '0@s.whatsapp.net'
                 }
             },
@@ -985,7 +985,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
  Ortu Saya.
  DikaArdnt (Author).
  Sanzy YT.
- Eichiy (Recode).
+ Eichi (Recode).
  Fatih A.
  Nurutomo.
  Mhankbarbar.
@@ -2591,7 +2591,7 @@ ${vote[m.chat][2].map((v, i) => ` ${i + 1}. @${v.split`@`[0]}`).join('\n')}
             case 'gitstalk':
             case 'ghstalk':
             case 'githubstalk': {
-                if (!text) throw `Kirim perintah ${prefix + command} *username*\n\nContoh : ${prefix + command} Eichi`
+                if (!text) throw `Kirim perintah ${prefix + command} *username*\n\nContoh : ${prefix + command} Abuzzpoet`
                 y = await fetchJson(`https://api.github.com/users/${text}`)
                 let teks = `*Stalk Github*\n\n� Username : ${y.login}\n� Id : ${y.id}\n� Node Id : ${y.node_id}\n� Type : ${y.type}\n� Name : ${y.name}\n� Company : ${y.company}\n� Blog : ${y.blog}\n� Location : ${y.location}\n� Email : ${y.email}\n� Bio : ${y.bio}\n� Public Repo(s) : ${y.public_repos}\n� Public Gist(s) : ${y.public_gists}\n� Followers : ${y.followers}\n� Following : ${y.following}\n� Created At : ${moment(y.created_at).tz('Asia/Jakarta').format('HH:mm:ss DD/MM/YYYY')}\n� Updated At : ${moment(y.updated_at).tz('Asia/Jakarta').format('HH:mm:ss DD/MM/YYYY')}`
                 let ghs = [
