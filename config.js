@@ -24,8 +24,8 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own & Agama 」—————//
 //kok pake agama bang? fitur toleransi bang
-global.namabot = 'KafuuChino'
-global.namaowner = 'Kuma'
+global.namabot = 'Eichi-MultiDevice'
+global.namaowner = 'Eichi'
 global.agama = 'Islam'
 
 //—————「 Setting Owner 」—————//
@@ -48,10 +48,10 @@ global.saweria = ['-']
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
 global.github = 'https://github.com/DikaArdnt'
 global.scbot = 'https://github.com/DikaArdnt'
-global.myweb = 'wa.me/62887435006141'
+global.myweb = 'www.tiktok.com/Eichi01'
 
 //—————「 Set Wm 」—————//
-global.packname = 'KafuuChino-MD'
+global.packname = 'Eichi'
 global.author = 'wa.me/62887435006141'
 
 //—————「 Set Nama Session 」—————//
